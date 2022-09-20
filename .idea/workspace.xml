@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e274db5e-f442-48da-ad63-038a8557f8a8" name="Changes" comment="" />
+    <list default="true" id="e274db5e-f442-48da-ad63-038a8557f8a8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Git/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Git/src/Hello.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +25,9 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/HongjiaWang/Desktop/asdasd/GitTest"
+    "jdk.selected.JAVA_MODULE": "18",
+    "last_opened_file_path": "C:/Users/HongjiaWang/Desktop/asdasd/GitTest",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -35,6 +39,7 @@
       <option name="presentableId" value="Default" />
       <updated>1663686570203</updated>
       <workItem from="1663686573009" duration="45000" />
+      <workItem from="1663686773333" duration="468000" />
     </task>
     <servers />
   </component>
